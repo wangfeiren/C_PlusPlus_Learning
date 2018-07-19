@@ -1,2 +1,0 @@
-# colorRecognition
-color recognition
