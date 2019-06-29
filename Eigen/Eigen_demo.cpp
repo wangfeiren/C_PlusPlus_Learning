@@ -7,6 +7,8 @@ using namespace std;
 
 #define MATRIX_SIZE 50
 
+// 来自于gaoxiang12的SLAM_Book
+// https://github.com/gaoxiang12/slambook
 /****************************
 * 本程序演示了 Eigen 基本类型的使用
 ****************************/
